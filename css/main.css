@@ -1,0 +1,17 @@
+#mian{
+	margin: 0 auto;
+}
+.a h1{
+	color: #DC143C;
+}
+.a p{
+	color: black;
+}
+.s{
+	position: absolute;
+	left: 15%;
+	top: 15%;
+	width: 70%;
+	line-height: 30px;
+	font-size: 25px;
+}

@@ -1,0 +1,65 @@
+#mian{
+	margin: 0 auto;
+}
+body{
+	background: #F0F8FF;
+}
+#quan{
+	width: 1000px;
+	height: 1235px;
+	background-image: url(../img/贾汪全景/quan.jpg);
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	margin-left: -500px;
+	z-index: -10;
+}
+#bei{
+	left: 500px;	
+}
+#nan{
+	left: 400px;
+	top: 1000px;
+}
+#cc{
+	left: 765px;
+	top: 340px;
+}
+#j4{
+	left: 320px;
+	top: 420px;
+}
+#j3{
+	left: 340px;
+	top: 600px;
+}
+#j2{
+	left: 535px;
+	top: 719px;
+}
+#j1{
+	left: 543px;
+	top: 879px;
+}
+#tsg{
+	left: 150px;
+	top: 663px;
+}
+#st{
+	left: 50px;
+	top: 420px;
+}
+.xiao{
+	z-index: 1;
+	position: absolute;
+	width: 200px;
+	height: 100px;
+}
+.xiao img{
+	width: 200px;
+	height: 100px;
+}
+.xiao,.xiao img:hover{
+	width: 400px;
+	height: 200px;
+}
